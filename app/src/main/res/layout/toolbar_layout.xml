@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="?attr/actionBarSize"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimaryDark"
+    app:navigationIcon="@drawable/ic_menu_24dp"
+    android:id="@+id/mtoolbar"
+    app:menu="@menu/toolbar_menu"
+    app:titleTextColor="@color/title"/>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A G Saraf</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="hello">Hello World</string>
+    <string name="eneegma">By team eneegma</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+</resources>
